@@ -1,0 +1,17 @@
+{
+  "name": "microweber-modules/timeline",
+  "description": "Timeline",
+  "license": "MIT",
+  "homepage": "https://microweber.org/modules/microweber-modules/timeline",
+  "authors": [
+    {
+      "name": "Bozhidar Slaveykov",
+      "email": "bobi@microweber.com"
+    }
+  ],
+  "keywords": [
+    "timeline"
+  ],
+  "type": "microweber-module",
+  "target-dir": "timeline"
+}
